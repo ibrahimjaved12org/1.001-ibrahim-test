@@ -1,0 +1,26 @@
+---
+body: ''
+content_type: resource
+draft: false
+file: /media/courses/1-001-1-001-ibrahim-test-spring-2023/image-1.png
+file_type: image/png
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+resourcetype: Image
+title: image (1).png
+uid: e9c8f0c8-79fc-40e1-8ab5-0af44b2760a6
+video_files:
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
+---
